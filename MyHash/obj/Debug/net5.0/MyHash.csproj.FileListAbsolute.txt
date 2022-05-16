@@ -1,0 +1,12 @@
+C:\Users\kadir\source\repos\MyHash\bin\Debug\net5.0\MyHash.deps.json
+C:\Users\kadir\source\repos\MyHash\bin\Debug\net5.0\MyHash.dll
+C:\Users\kadir\source\repos\MyHash\bin\Debug\net5.0\ref\MyHash.dll
+C:\Users\kadir\source\repos\MyHash\bin\Debug\net5.0\MyHash.pdb
+C:\Users\kadir\source\repos\MyHash\obj\Debug\net5.0\MyHash.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kadir\source\repos\MyHash\obj\Debug\net5.0\MyHash.AssemblyInfoInputs.cache
+C:\Users\kadir\source\repos\MyHash\obj\Debug\net5.0\MyHash.AssemblyInfo.cs
+C:\Users\kadir\source\repos\MyHash\obj\Debug\net5.0\MyHash.csproj.CoreCompileInputs.cache
+C:\Users\kadir\source\repos\MyHash\obj\Debug\net5.0\MyHash.dll
+C:\Users\kadir\source\repos\MyHash\obj\Debug\net5.0\ref\MyHash.dll
+C:\Users\kadir\source\repos\MyHash\obj\Debug\net5.0\MyHash.pdb
+C:\Users\kadir\source\repos\MyHash\obj\Debug\net5.0\MyHash.csproj.AssemblyReference.cache
